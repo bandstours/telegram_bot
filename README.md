@@ -1,2 +1,6 @@
-# telegram_bot
-Telegram Bot for search a cheap tickets on http://bandstours.com
+# BandsTours Telegram Bot
+This is initial commit
+
+Waiting for commits.
+
+See more about telegram's bot https://github.com/telegram-bot-rb/telegram-bot
